@@ -55,7 +55,7 @@ namespace degiskenler
             object o2 = 'y';    //char
             object o3 = 4.5;    //decimal
             object o4 = 6;      //integer
-          
+           
             string str1 = string.Empty;
             string str2 = null;
             string str3;
