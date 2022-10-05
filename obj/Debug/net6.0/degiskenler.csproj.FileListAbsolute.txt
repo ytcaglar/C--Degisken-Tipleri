@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\bin\Debug\net6.0\degiskenler.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\bin\Debug\net6.0\degiskenler.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\bin\Debug\net6.0\degiskenler.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\bin\Debug\net6.0\degiskenler.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\bin\Debug\net6.0\degiskenler.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\obj\Debug\net6.0\degiskenler.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\obj\Debug\net6.0\refint\degiskenler.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\obj\Debug\net6.0\degiskenler.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\obj\Debug\net6.0\degiskenler.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\degiskenler\obj\Debug\net6.0\ref\degiskenler.dll
